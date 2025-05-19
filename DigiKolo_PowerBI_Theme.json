@@ -1,0 +1,32 @@
+{
+    "name": "DigiKolo Modern Theme",
+    "dataColors": [
+        "#006AFF",
+        "#FFB800",
+        "#5AC8FA",
+        "#4CD964",
+        "#FF3B30"
+    ],
+    "background": "#ffffff",
+    "foreground": "#222222",
+    "tableAccent": "#006AFF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "titleText": [
+                    {
+                        "fontSize": 13,
+                        "fontFamily": "Segoe UI Semibold",
+                        "color": "#222222"
+                    }
+                ],
+                "labels": [
+                    {
+                        "fontSize": 12,
+                        "color": "#444444"
+                    }
+                ]
+            }
+        }
+    }
+}
