@@ -54,8 +54,8 @@
 
 \- \`*DigiKolo\_PowerBI\_Dashboard.pbix*\` – Full dashboard file (Power BI)  
 \- \`*assets/dashboard-preview.png*\` – Optimized image for documentation  
-\- \`*DAX\_Measures.md*\` – (Optional) All DAX formulas used in the project  
-\- \`*insights-report.md*\` – (Optional) Textual business interpretation
+\- \`*DAX\_Measures.md*\` – All DAX formulas used in the project  
+\- \`*insights-report.md*\` –  Textual business interpretation
 
 ---
 
