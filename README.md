@@ -1,6 +1,6 @@
-# **DigiKolo Dashboard Analysis** 📊
+# DigiKolo Dashboard Analysis 📊
 
-## This repository contains a Power BI dashboard project analyzing wallet and savings trends for \*\*DigiKolo\*\*, a digital wallet and savings app by \[Digital Space Capital\](https://digitalspacecapital.com/). The dashboard delivers deep insights into user behaviours, app performance, and product interest patterns—optimized for the Nigerian fintech landscape.
+# This repository contains a Power BI dashboard project analyzing wallet and savings trends for \\DigiKolo\\, a digital wallet and savings app by \Digital Space Group\. The dashboard delivers deep insights into user behaviours, app performance, and product interest patterns—optimized for the Nigerian fintech landscape.
 
 ---
 
